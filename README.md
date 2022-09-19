@@ -3,7 +3,7 @@
 This project uses MATLAB’s App Designer and Robotics System Toolbox to create a graphical user interface that allows controlling the LSS 4 DoF Robotic Arm. The arm uses the LSS Adapter Board to communicate with and power the Lynxmotion Smart Servos. These servos can be controlled using standard RC PWM or the LSS communication protocol which is what is used in this project.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=_YmGmsMpEeQ"><img src="https://github.com/Robotics-Technology/Arm-Control-Matlab-App/images/blob/main/thumbnail.jpg"  width="70%" alt="MATLAB Arm Control"></a>
+  <a href="https://www.youtube.com/watch?v=_YmGmsMpEeQ"><img src="https://github.com/Robotics-Technology/Arm-Control-Matlab-App/blob/main/images/thumbnail.jpg"  width="70%" alt="MATLAB Arm Control"></a>
 </div>
 
 ## Table of Contents
