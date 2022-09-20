@@ -65,7 +65,7 @@ Anyone is very welcome to contribute. Below is a list of identified improvements
 
 ## To do
 
-- Import the arm model from an (URDF)[https://www.mathworks.com/help/robotics/ref/importrobot.html].
+- Import the arm model from an [URDF](https://www.mathworks.com/help/robotics/ref/importrobot.html).
 
 ## Limitations
 
