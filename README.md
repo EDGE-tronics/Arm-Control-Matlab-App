@@ -26,7 +26,7 @@ This project uses MATLAB’s App Designer and Robotics System Toolbox to create 
 ### Software
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) (Tested on R2019a)
-- [Robotics System Toolbox](https://www.mathworks.com/products/robotics.html)
+- [Peter Corke's Robotics Toolbox](https://petercorke.com/toolboxes/robotics-toolbox/)
 
 ## Getting Started
 
